@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\badri\\source\\repos\\MVCProject - Copy\\MVCProject\\MVCProject.csproj": {}
+    "C:\\Users\\badri\\source\\repos\\MVCProject-Copy\\MVCProject\\MVCProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\badri\\source\\repos\\MVCProject - Copy\\MVCProject\\MVCProject.csproj": {
+    "C:\\Users\\badri\\source\\repos\\MVCProject-Copy\\MVCProject\\MVCProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\badri\\source\\repos\\MVCProject - Copy\\MVCProject\\MVCProject.csproj",
+        "projectUniqueName": "C:\\Users\\badri\\source\\repos\\MVCProject-Copy\\MVCProject\\MVCProject.csproj",
         "projectName": "MVCProject",
-        "projectPath": "C:\\Users\\badri\\source\\repos\\MVCProject - Copy\\MVCProject\\MVCProject.csproj",
+        "projectPath": "C:\\Users\\badri\\source\\repos\\MVCProject-Copy\\MVCProject\\MVCProject.csproj",
         "packagesPath": "C:\\Users\\badri\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\badri\\source\\repos\\MVCProject - Copy\\MVCProject\\obj\\",
+        "outputPath": "C:\\Users\\badri\\source\\repos\\MVCProject-Copy\\MVCProject\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\badri\\AppData\\Roaming\\NuGet\\NuGet.Config",
