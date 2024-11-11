@@ -1,10 +1,6 @@
 pipeline {
     agent any
 
-    environment {
-        // Environment variables are not required for Ubuntu-specific builds.
-    }
-
     stages {
         stage('Checkout') {
             steps {
