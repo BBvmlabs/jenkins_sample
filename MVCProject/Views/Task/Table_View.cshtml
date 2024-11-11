@@ -1,0 +1,75 @@
+﻿@using MVCProject.Models.Task3;
+
+@* should has to give the type of the data model that used to store data in the Controller file
+
+	List<Table_datamodel> data = JsonSerializer.Deserialize<List<Table_datamodel>>(jsonString);
+		return(data);
+		
+		If we return the data inside the return place and to access the data in the view page 
+		
+		That should have to use the same model to retrive the data if its an list that should be an list with data model
+*@
+
+@model List<Table_datamodel>
+@{
+	
+	ViewData["Title"] = "Table_View";
+}
+
+<h1> Table View of the Data stored</h1>
+
+<p>This tabel shows Employee Details</p>
+
+<table class="table table-bordered table-responsive table-hover">
+	<tr style=" background-color : dodgerblue; color : white">
+		<th>ID</th>
+		<th>Name</th>
+		<th>Role</th>
+		<th>Status</th>
+		<th>Experince</th>
+		<th>Salary in USD</th>
+		<th>Salary in State</th>
+		<th>Mobile</th>
+		<th>State</th>
+	</tr>
+	
+	@foreach(var detial in @Model)
+	{
+		<tr style=" background-color : aliceblue ">
+			<td> @detial.ID </td>
+			<td> @detial.Name </td>
+			<td> @detial.Role </td>
+			@if(detial.Status == true)
+			{
+				<td style="color : Green;" >
+					Active
+				</td>
+			}
+			else
+			{
+				<td style ="color : Red;">
+					In-Active
+					</td>
+			}
+			<td> @detial.Experince years </td>
+			<td> $@detial.Salary  </td>
+			@switch (detial.City)
+			{
+				case "USA":
+					<td> $ @detial.Salary </td>
+					break;
+				case "China":
+					<td> ¥ @(detial.Salary * 7.11)	</td>
+					break;
+				case "UK":
+					<td> € @(detial.Salary * 0.93) </td>
+					break;
+				case "UAE":
+					<td> د.إ @(detial.Salary * 3.67) </td>
+					break;
+			};
+			<td> @detial.Mobile </td>
+			<td> @detial.City </td>	
+	</tr>
+	} 
+</table>

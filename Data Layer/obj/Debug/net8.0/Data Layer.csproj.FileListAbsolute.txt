@@ -1,0 +1,22 @@
+C:\Users\badri\source\repos\MVCProject\Data Layer\bin\Debug\net8.0\MVCProject.deps.json
+C:\Users\badri\source\repos\MVCProject\Data Layer\bin\Debug\net8.0\MVCProject.runtimeconfig.json
+C:\Users\badri\source\repos\MVCProject\Data Layer\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\badri\source\repos\MVCProject\Data Layer\bin\Debug\net8.0\appsettings.json
+C:\Users\badri\source\repos\MVCProject\Data Layer\bin\Debug\net8.0\Data\Data_Storage.json
+C:\Users\badri\source\repos\MVCProject\Data Layer\bin\Debug\net8.0\MVCProject.staticwebassets.runtime.json
+C:\Users\badri\source\repos\MVCProject\Data Layer\bin\Debug\net8.0\MVCProject.exe
+C:\Users\badri\source\repos\MVCProject\Data Layer\bin\Debug\net8.0\Data Layer.deps.json
+C:\Users\badri\source\repos\MVCProject\Data Layer\bin\Debug\net8.0\Data Layer.dll
+C:\Users\badri\source\repos\MVCProject\Data Layer\bin\Debug\net8.0\Data Layer.pdb
+C:\Users\badri\source\repos\MVCProject\Data Layer\bin\Debug\net8.0\MVCProject.dll
+C:\Users\badri\source\repos\MVCProject\Data Layer\bin\Debug\net8.0\MVCProject.pdb
+C:\Users\badri\source\repos\MVCProject\Data Layer\obj\Debug\net8.0\Data Layer.csproj.AssemblyReference.cache
+C:\Users\badri\source\repos\MVCProject\Data Layer\obj\Debug\net8.0\Data Layer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\badri\source\repos\MVCProject\Data Layer\obj\Debug\net8.0\Data Layer.AssemblyInfoInputs.cache
+C:\Users\badri\source\repos\MVCProject\Data Layer\obj\Debug\net8.0\Data Layer.AssemblyInfo.cs
+C:\Users\badri\source\repos\MVCProject\Data Layer\obj\Debug\net8.0\Data Layer.csproj.CoreCompileInputs.cache
+C:\Users\badri\source\repos\MVCProject\Data Layer\obj\Debug\net8.0\Data Layer.csproj.Up2Date
+C:\Users\badri\source\repos\MVCProject\Data Layer\obj\Debug\net8.0\Data Layer.dll
+C:\Users\badri\source\repos\MVCProject\Data Layer\obj\Debug\net8.0\refint\Data Layer.dll
+C:\Users\badri\source\repos\MVCProject\Data Layer\obj\Debug\net8.0\Data Layer.pdb
+C:\Users\badri\source\repos\MVCProject\Data Layer\obj\Debug\net8.0\ref\Data Layer.dll

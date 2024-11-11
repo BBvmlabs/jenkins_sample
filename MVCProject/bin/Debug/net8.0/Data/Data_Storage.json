@@ -1,0 +1,46 @@
+[
+  {
+    "ID": 1,
+    "Name": "BOB",
+    "Role": "CSE Senior Engineer",
+    "Status" :  true,
+    "Experince": 8.5,
+    "Salary": 7500.00,
+    "Mobile": 9874563210,
+    "City": "USA"
+  },
+
+  {
+    "ID": 2,
+    "Name": "ALICE",
+    "Role": "CSE Senior Analyst",
+    "Status": false,
+    "Experince": 8.0,
+    "Salary": 7400.00,
+    "Mobile": 9870123456,
+    "City": "China"
+
+  },
+
+  {
+    "ID": 3,
+    "Name": "TRENT",
+    "Role": "CSE Junior Engineer",
+    "Experince": 7.5,
+    "Status": false,
+    "Salary": 7300.00,
+    "Mobile": 9876540321,
+    "City": "UK"
+  },
+
+  {
+    "ID": 4,
+    "Name": "EVE",
+    "Role": "CSE Junior Analyst",
+    "Experince": 7.0,
+    "Status": true,
+    "Salary": 7200.00,
+    "Mobile": 9870123456,
+    "City": "UAE"
+  }
+]

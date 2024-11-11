@@ -1,0 +1,37 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+@{
+    ViewData["Title"] = "Index";
+}
+
+<h1>OWN</h1>
+
+<p>Created my own Controller and the View</p>
+
+
+<img src=@ViewBag.Image alt="W3Schools.com">
+
+<table>
+    <tr>
+        <td>
+            Image Name
+            </td>
+        <td>
+            @ViewBag.Imagedetials1.Image_Name
+    </td></tr>
+    <tr>
+        <td>
+            Source
+            </td>
+        <td>
+            @ViewBag.Imagedetials1.Source
+    </td></tr>
+    <tr>
+        <td>
+            Size
+            </td>
+        <td>
+        @ViewBag.Imagedetials1.Size kb
+    </td></tr>
+</table>
